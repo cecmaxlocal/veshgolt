@@ -1,0 +1,22 @@
+A "matrix" in software licensing typically refers to a comparison chart or table outlining the different license options, features, and configurations available for a product. In the context of Safe Software FME, this matrix would include details on license types like fixed (node-locked), floating, subscription, and enterprise licenses, along with their features, limitations, and suitable use cases.
+
+- Fixed licenses are tied to a specific machine, ideal for single-user setups, whereas floating licenses are shared across multiple users via a license server, supporting organizational environments.[1]
+
+- Subscription licenses provide access for a defined period and often include updates and support, while perpetual licenses are purchased outright with optional annual maintenance.[2]
+
+- Safe Software offers different licensing variants tailored to industries, deployment sizes, and use cases, with a clear comparison of features and costs.[3]
+
+- License management involves features like license borrowing, server redundancy, and version compatibility, which are also part of the licensing matrix.[8][10]
+
+While there isn't a publicly downloadable "license matrix" document, these details are summarized in the official documentation and product comparison pages, helping users select the best license configuration for their needs.[1][2][3]
+
+[1](https://docs.safe.com/fme/html/FME-Form-Documentation/FME-Form-Admin-Guide/FMEInstallation/Determining_the_FME_License_Type_to_Install.htm)
+[2](https://www.redgeographics.com/blog/fme-licenties-2020/)
+[3](https://fme.globema.com/fme-frequently-asked-questions/)
+[4](https://www.consortech.com/5_reasons_to_choose_the_fme_subscription_model/)
+[5](https://www.reddit.com/r/gis/comments/12ug9hs/whats_going_on_with_fme_this_is/)
+[6](https://fme.safe.com/pricing/)
+[7](https://support.safe.com/hc/en-us/articles/25407547737357-Feature-Comparison-FME-Flow-and-FME-Flow-Hosted)
+[8](https://support.safe.com/hc/en-us/articles/25407652135693-How-Do-I-Know-What-FME-Build-License-or-Version-I-am-Running)
+[9](https://support.safe.com/hc/en-us/articles/25407441075469-FME-Versions-and-Workspace-Compatibility)
+[10](https://mkp.gem.gov.in/extract-transform-load-spatial-geospatial-data-software/fme-form-2023/p-5116877-4292715016-cat.html)

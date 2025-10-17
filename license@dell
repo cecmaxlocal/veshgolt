@@ -1,0 +1,24 @@
+Dell machines typically come with OEM (Original Equipment Manufacturer) licenses for software such as Microsoft Windows or Windows Server. These licenses are tied specifically to the hardware they ship with and have restrictions on transferability and usage:
+
+- OEM licenses are pre-installed and bundled with Dell hardware (e.g., Windows 10 or Windows Server). The license is registered based on the machine’s hardware ID and usually cannot be transferred to another machine. This means if you change the motherboard, the activation may fail requiring assistance or a new license.[4][9]
+
+- Dell OEM Windows licenses are functionally equivalent to retail licenses, except they are locked to the Dell system. These licenses activate automatically using digital entitlement linked to the Dell hardware and Microsoft account when reinstalling with Dell’s recovery media.[4]
+
+- Windows Server licenses sold with Dell PowerEdge servers also follow OEM licensing terms, including restrictions on virtualization environments. The OEM Windows Server license remains valid on that server as a host OS or as a virtual machine on an authorized hypervisor, based on the license edition (e.g., Datacenter edition has unlimited virtual instances).[6][9]
+
+- Dell includes a Certificate of Authenticity (COA) on physical servers as proof of license, which contains the product key for activation. This label is usually affixed to the chassis and can require manual activation or reactivation support if hardware changes occur.[9]
+
+- End users or administrators should manage licenses via Dell License Manager software for enterprise systems, which helps handle licenses, binding, deployment, and reporting.[7]
+
+In summary, Dell machines’ licenses are OEM licenses tied to the hardware they ship with, making them generally non-transferable and requiring that reinstallations maintain the original hardware configuration or use Dell recovery media for automatic activation. For server products, OEM licenses support virtualization rights specific to the edition purchased. Any major hardware change, especially the motherboard, often requires contacting Dell or Microsoft support for reactivation or new licensing.[7][9][4]
+
+[1](https://www.dell.com/en-us/lp/dt/training-and-certification)
+[2](https://www.dell.com/support/home/en-br?app=licenses)
+[3](https://www.dell.com/en-us/lp/legal/art-software-license-agreements)
+[4](https://www.dell.com/support/kbdoc/en-ca/000126935/requirements-for-dell-windows-10-activation)
+[5](https://www.reddit.com/r/Dell/comments/1gctzvy/are_you_allowed_to_use_a_dell_windows_product_key/)
+[6](https://www.dell.com/support/contents/en-vg/videos/videoplayer/windows-server-licensing-for-poweredge-servers/6361113653112)
+[7](https://www.dell.com/support/manuals/en-us/license-manager/dlm_1.7_user_guide/minimum-system-requirements?guid=guid-c3863e3c-2b04-4c4a-8e3f-0c71fff6344d&lang=en-us)
+[8](https://www.dell.com/support/kbdoc/en-kg/000132462/windows-product-key-frequently-asked-questions-faq)
+[9](https://www.dell.com/support/kbdoc/en-us/000175471/windows-server-dell-oem-license)
+[10](https://www.delltechnologies.com/partner/en-us/partner/partner.htm)

@@ -1,0 +1,24 @@
+The license activation process for Safe Software FME products involves these steps:
+
+- For a single-fixed license, open the FME Licensing Assistant (found in the Start menu or installation folder) and select "Activate a single-fixed license." Enter your serial number from the purchase confirmation email, and click Activate. A confirmation message will appear upon successful activation. This license ties to your system's hardware, so changing hardware may require reactivation.[1][2]
+
+- If automated activation fails, you can manually install a license file (*.fmelic) downloaded from Safe’s license activation web page by providing your serial number and registration key from the Licensing Assistant. The manual license is entered into the Licensing Assistant to complete activation.[3][4][5]
+
+- For floating licenses, a floating license server must be installed and configured, from which client machines request licenses dynamically based on availability.[10][1]
+
+- The registration key is a unique identifier generated from your system hardware by the Licensing Assistant, used to create and limit licenses to specific machines.[4]
+
+- If you encounter issues, license activation can also be assisted via email communication with Safe Software support including serial number and registration key to receive license files.[3][4]
+
+In short, Safe Software licenses activate through an automated or manual process using the FME Licensing Assistant, linking licenses to physical hardware or to a floating license server, ensuring compliance and allowing flexibility in deployment.[1][4][10][3]
+
+[1](https://docs.safe.com/fme/2017.1/html/FME_Desktop_Documentation/FME_Desktop_Admin_Guide/FMEInstallation/Activating_a_Single_Fixed_License.htm)
+[2](https://docs.safe.com/fme/html/FME-Form-Documentation/FME-Form-Admin-Guide/FMEInstallation/Activating_a_Single_Fixed_License.htm)
+[3](https://docs.safe.com/fme/html/FME-Form-Documentation/FME-Form-Admin-Guide/FMEInstallation/installing_fmelic_file.htm)
+[4](https://locusglobal.com/wp-content/uploads/2023/06/FME-Form-Admin-Guide.pdf)
+[5](https://fme.safe.com/activation/)
+[6](https://docs.safe.com/fme/html/FME-Flow/AdminGuide/Request_and_Install_a_License-2-Tier.htm)
+[7](https://docs.safe.com/fme/html/FME-Form-Documentation/FME-Form-Admin-Guide/FMEInstallation/Request_and_Install_the_License.htm)
+[8](https://docs.safe.com/fme/2018.1/html/FME_Server_Documentation/Content/AdminGuide/Request_and_Install_a_License.htm)
+[9](https://docs.safe.com/fme/html/FME-Form-Documentation/FME-Form-Admin-Guide/FMEInstallation/Licensing.htm)
+[10](https://locusglobal.com/wp-content/uploads/2021/04/FME-Desktop-Floating-Licensing-Instructions-2021.pdf)

@@ -1,0 +1,26 @@
+Math software licensing comes in several common types depending on the product and use case, including commercial, academic, personal, and floating licenses.
+
+- Commercial licenses are typically purchased for organizational or business use and often provide full features with paid maintenance and support. Examples include MATLAB, Mathcad Prime, and Mathematica commercial licenses.[1][3][7]
+
+- Academic licenses are discounted or restricted-use versions for educational institutions and students. These restrict commercial usage but allow teaching, research, and learning. Maple and MATLAB offer such licenses.[4][1]
+
+- Personal or home-use licenses are available for individual users who do not use the software in commercial settings. These are usually lower-cost and may lack some advanced features.[1]
+
+- Floating or concurrent licenses allow multiple users to share a pool of licenses over a network, limiting simultaneous usage to the number of licenses purchased. This is common for team or enterprise environments, such as Mathcad Prime’s floating license.[3]
+
+- Some math solver SDKs use license servers or license files tied to hardware fingerprints to manage license enforcement. This method allows offline use for a limited period after license refresh and is typical in optimization or solver SDK products.[2][5]
+
+- Site licenses enable an institution or organization to install software on many computers across a campus or company site, managed centrally.[6][10]
+
+To summarize, math solver or math software licenses vary widely from fully transferable retail licenses to hardware-locked OEM licenses and enterprise network licenses. The choice depends on intended use (personal, academic, commercial), deployment scale (single user, team, site), and product features. Understanding the licensing terms carefully is critical, especially compliance with commercial vs academic use restrictions and floating license concurrency limits.[5][2][3][4][6][1]
+
+[1](https://www.mathworks.com/pricing-licensing.html)
+[2](https://www.solver.com/pricing-types-licenses)
+[3](https://www.ptc.com/en/store/products/mathcad/ptc-mathcad-prime)
+[4](https://store.maplesoft.com/products/usd-maple-academic/)
+[5](https://www.solver.com/solver-sdk-platform-software)
+[6](https://polymathplus.org)
+[7](https://www.wolfram.com/mathematica/pricing/)
+[8](https://www.maplesoft.com/products/Maple/)
+[9](https://www.gams.com/buy_gams/)
+[10](https://tech.rochester.edu/software-category/math-statistics/)

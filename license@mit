@@ -1,0 +1,23 @@
+The MIT License is a widely used open source license that Microsoft applies to select software projects and samples, especially developer tools and examples. It allows users to freely use, copy, modify, merge, publish, distribute, sublicense, and sell the software with minimal restrictions. The main conditions are to include the original copyright notice and license text in all copies or significant portions of the software. The license explicitly disclaims warranties and liabilities, providing the software “as-is”.[2][5]
+
+Microsoft offers many proprietary software licenses for commercial products like Windows, Office, and Azure under strict end-user license agreements that define installation, usage, and redistribution rules. Microsoft software under these licenses may require activation, restrict modification, and limit use to specified devices or users.[1][4][6][9]
+
+However, for development samples, SDKs, and some open source projects on platforms like GitHub, Microsoft often uses the permissive MIT License. Under this license, developers can incorporate the code into their own projects, commercial or otherwise, so long as they follow the license terms. Microsoft's Developer Program terms explicitly note that Microsoft Software marked as “sample” or “example” may be used under the MIT License terms.[3][7]
+
+In summary:
+- Microsoft’s commercial products have proprietary licenses controlling usage and distribution.
+- Microsoft’s open source and sample software often use the permissive MIT License.
+- The MIT License grants broad permissions with attribution and warranty disclaimers.
+- Use of Microsoft software depends on specific license terms, distinguished by product type and distribution context.[5][6][7][1][2]
+
+This dual licensing approach enables Microsoft to protect its commercial interests while fostering open development and broad reuse of its sample and open source code.
+
+[1](https://docs.oracle.com/en/industries/food-beverage/simphony/simlg/microsoft_license_software_terms.htm)
+[2](https://www.microsoft.com/en-us/web/webpi/eula/microsoft-azure-service-fabric-sdk-eula.htm)
+[3](https://learn.microsoft.com/en-us/office/developer-program/terms-and-conditions)
+[4](https://code.visualstudio.com/license)
+[5](https://opensource.org/license/mit)
+[6](https://www.microsoft.com/en-us/legal/terms-of-use)
+[7](https://learn.microsoft.com/en-us/collaborate/terms-of-use)
+[8](https://www.microsoft.com/en/servicesagreement)
+[9](https://www.microsoft.com/licensing/docs/view/Product-Terms)

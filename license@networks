@@ -1,0 +1,27 @@
+A network license, also called a floating license, is provided by Safe Software FME as a license server setup on a network accessible to multiple client machines:
+
+- A single computer is designated as the floating license server, typically a machine with a static IP address or hostname visible on the network. The server is set up with Safe’s FlexNet license server software that manages license distribution.[1][4]
+
+- The license server holds a pool of licenses. Clients request licenses dynamically when launching FME software; if available, a license is checked out to the client for the session. The number of simultaneous user licenses is limited to the number purchased.[2][8]
+
+- To configure clients, users specify the license server name (and optionally port) in the FME Licensing Assistant by selecting "Floating License" and entering the license server details. This connects the client to the license pool onboard the server.[5][2]
+
+- Licensed communication between client and server uses specified TCP/IP ports (typically 27000 to 27009). Port numbers can be edited in the safe.lic license file, and firewalls must allow this traffic. Multiple license servers can be configured for redundancy.[3]
+
+- The license server software can run on Windows or Linux. It is installed using Safe Software’s provided FlexNet installer with administrator privileges.[4][1]
+
+- Offline usage can be supported by license borrowing, allowing temporary license checkout for use without network connection for a limited time.[11]
+
+In summary, Safe Software utilizes network licenses to share a pool of licenses across multiple users via a FlexNet license server running on a designated network machine. Clients connect by specifying the server to dynamically borrow a license, ideal for organizational software deployments where license count controls concurrency.[8][1][2][3][4][5]
+
+[1](https://support.safe.com/hc/en-us/articles/25407440848525-Create-an-Inexpensive-FME-Floating-License-Server-in-the-Cloud-in-15-Minutes)
+[2](https://docs.safe.com/fme/html/FME-Form-Documentation/FME-Form-Admin-Guide/FMEInstallation/Configure_FME_Form_Use_Floating_License_3_Server_Redundant_Windows.htm)
+[3](https://docs.safe.com/fme/html/FME-Form-Documentation/FME-Form-Admin-Guide/FMEInstallation/Specifying_Floating_License_Server_Ports.htm)
+[4](https://locusglobal.com/wp-content/uploads/2021/04/FME-Desktop-Floating-Licensing-Instructions-2021.pdf)
+[5](https://docs.safe.com/fme/html/FME-Form-Documentation/FME-Form-Admin-Guide/FMEInstallation/Connect_to_the_Floating_License_Server.htm)
+[6](https://docs.safe.com/fme/html/FME-Form-Documentation/FME-Form-Admin-Guide/FMEInstallation/Configuring_FME_Form_to_Use_a_Floating_License.htm)
+[7](https://docs.safe.com/fme/html/FME-Form-Documentation/FME-Form-Admin-Guide/FMEInstallation/Start_the_License_Servers_Three_Server_Redundant_Floating_License_Windows.htm)
+[8](https://docs.safe.com/fme/html/FME-Form-Documentation/FME-Form-Admin-Guide/FMEInstallation/About_Floating_Licenses.htm)
+[9](https://docs.safe.com/fme/2022.0/html/FME_Desktop_Documentation/FME_Desktop_Admin_Guide/FMEInstallation/Configuring_FME_Desktop_to_Use_a_Floating_License.htm)
+[10](https://support.safe.com/hc/en-us/articles/25407785260941-FME-Floating-License-Server-How-to-Upgrade-FlexLM-on-the-Same-Machine)
+[11](https://docs.safe.com/fme/html/FME-Form-Documentation/FME-Form/Workbench/license_borrowing.htm)

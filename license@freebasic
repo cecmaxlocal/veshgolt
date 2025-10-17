@@ -1,0 +1,23 @@
+FreeBASIC compiler is released under the GNU General Public License (GPL) version 2 or later, which is a free software license allowing users to freely use, modify, and distribute the compiler itself.[1][4][7][8]
+
+Key points regarding FreeBASIC licensing are:
+- The compiler source code is GPL-licensed, so modifications to the compiler or using its source code must comply with GPL requirements, including making source available.
+- Programs compiled with FreeBASIC do not have to be open source or GPL-licensed themselves. You can compile proprietary or commercial programs using FreeBASIC without disclosing your source.[2][3]
+- Some FreeBASIC libraries, like the fbgfx graphics library, are under the LGPL license, which permits linking to closed-source programs without requiring the programs themselves to be open source. You only need to provide source if you modify the LGPL library.[2]
+- The GPL and LGPL licenses used by FreeBASIC grant you freedom to distribute and sell your software, but using or modifying code from FreeBASIC’s compiler or certain libraries obligates source disclosure per the respective license terms.[6][1]
+- The FreeBASIC community provides detailed licensing clarifications showing it is suitable for both open source and commercial development.[3][10]
+
+In summary, FreeBASIC as a development tool is free and open source under GPLv2 or later. You can create proprietary software without disclosing your source code unless you modify FreeBASIC’s compiler/libraries licensed under GPL/LGPL. This licensing allows flexible use of FreeBASIC for hobbyist, educational, and commercial programming.[4][1][3][2]
+
+If you want, specific references on licensing are available on FreeBASIC's official wiki and community forums.[1][2]
+
+[1](https://www.freebasic.net/wiki/wikka.php?wakka=GnuLicenses)
+[2](https://freebasic.net/forum/viewtopic.php?t=31075)
+[3](https://freebasic.net/forum/viewtopic.php?t=9727)
+[4](https://en.wikipedia.org/wiki/FreeBASIC)
+[5](https://www.freebasic.net/forum/viewtopic.php?t=18886)
+[6](https://sharpbasic.com/downloads/mlgpl.html)
+[7](https://github.com/freebasic/fbc)
+[8](https://freebasic.net)
+[9](https://sourceforge.net/projects/fbc/)
+[10](https://freebasic.net/forum/viewtopic.php?t=22603)

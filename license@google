@@ -1,0 +1,29 @@
+Google offers several types of licenses across its products and services, generally categorized as proprietary user-based licenses and open source licenses.
+
+For cloud services like Google Cloud Platform (GCP), licenses include:
+- Free licenses with no charge for usage,
+- Pay-as-you-go (on-demand) licenses where you pay for actual consumption,
+- Bring Your Own License (BYOL), allowing users to use existing third-party licenses such as Oracle or Windows Server on Google infrastructure.[2][4]
+
+Google Workspace and other Google services are licensed on a per-user basis rather than site-based. Each user requires a separate license, which grants access to services like Gmail, Drive, Calendar, and more. Licenses are assigned through the Google Admin console and must match subscription counts.[3]
+
+Regarding open source, Google contributes extensively to projects under permissive licenses like Apache 2.0, BSD, and others. Google's Open Patent Non-Assertion Pledge is a legal promise not to assert certain patents against free and open source software developers, although this pledge is distinct from formal software licenses.[1][5][8]
+
+In summary, Google licenses software and services either as:
+- User-based commercial licenses (Google Workspace),
+- Cloud usage-based licenses (GCP),
+- BYOL for third-party licenses run on Google Cloud,
+- Open source licenses for Google’s shared codebases (Apache 2.0, BSD, etc.),
+- Legal pledges for patent non-assertion on open source software.[4][5][8][1][2][3]
+
+Your choice of Google license depends on the product or service. For cloud use, understand different pricing and license models such as PAYG or BYOL. For development, Google’s open source projects use standard permissive licenses. For enterprise apps like Workspace, licenses are user-based and managed centrally.[8][2][3]
+
+[1](https://opensource.google/documentation/reference/thirdparty/licenses)
+[2](https://cloud.google.com/compute/docs/licenses/about)
+[3](https://support.google.com/a/answer/6309862?hl=en)
+[4](https://licenseq.com/google-cloud-platform-licensing/)
+[5](https://www.google.com/patents/opnpledge/faq/)
+[6](https://source.android.com/license)
+[7](https://cloud.google.com/terms/looker/legal/customers/licensing/index-20220214)
+[8](https://developers.google.com/open-source/licenses/bsd)
+[9](https://earth.google.com/intl/es-419/licensepro.html)
