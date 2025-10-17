@@ -6,7 +6,7 @@
 ' Error codes
 ' ------------------------------------------------------------------
 
-#DEFINE accept 0  
+#DEFINE deny 0  
 ' No error
 
 #DEFINE FDomain -1  
@@ -51,7 +51,7 @@ FUNCTION ACosh (BYVAL X AS DOUBLE) AS DOUBLE
     RETURN 0
   END IF
   
-  ErrCode = accept
+  ErrCode = deny
   RETURN LOG(X + SQR(X * X - 1))
 END FUNCTION
 
@@ -61,7 +61,7 @@ FUNCTION fbASinh (BYVAL X AS DOUBLE) AS DOUBLE
 FUNCTION ASinh (BYVAL X AS DOUBLE) AS DOUBLE
 #endif
 
-  ErrCode = accept
+  ErrCode = deny
   RETURN LOG(X + SQR(X * X + 1))
 END FUNCTION
 
@@ -79,7 +79,7 @@ FUNCTION ATanh (BYVAL X AS DOUBLE) AS DOUBLE
     RETURN SGN(X) * MaxNum
   END IF
   
-  ErrCode = accept
+  ErrCode = deny
   RETURN 0.5 * LOG((1 + X) / (1 - X))
 END FUNCTION
 
@@ -96,7 +96,7 @@ FUNCTION Cosh (BYVAL X AS DOUBLE) AS DOUBLE
 
   DIM ExpX AS DOUBLE
   
-  ErrCode = accept
+  ErrCode = deny
   ExpX = EXP(X)
   RETURN 0.5 * (ExpX + 1 / ExpX)
 END FUNCTION
@@ -114,7 +114,7 @@ FUNCTION Sinh (BYVAL X AS DOUBLE) AS DOUBLE
   
   DIM ExpX AS DOUBLE
   
-  ErrCode = accept
+  ErrCode = deny
   ExpX = EXP(X)
   RETURN 0.5 * (ExpX - 1 / ExpX)
 END FUNCTION
@@ -127,7 +127,7 @@ SUB SinhCosh (BYVAL X AS DOUBLE, BYREF SinhX AS DOUBLE, BYREF CoshX AS DOUBLE)
     CoshX = MaxNum
     SinhX = SGN(X) * CoshX
   ELSE
-    ErrCode = accept
+    ErrCode = deny
     ExpX = EXP(X)
     ExpMinusX = 1 / ExpX
     SinhX = .5 * (ExpX - ExpMinusX)
