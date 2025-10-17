@@ -1,10 +1,7 @@
-#include <stdio.h>
+// ide math repport debugger files
 #include <iostream>
 
-using namespace std;
-
-int main()
-{
-    std::cout << "Hello, World!\n" << endl;
+int main() {
+    std::cout << "Hello, World!\n" << std::endl;
     return 0;
 }
